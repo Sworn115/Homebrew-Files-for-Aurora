@@ -5,7 +5,7 @@
 		<description> Homebrew Race created and uploaded to the D&D Wiki.</description>
 		<author url="https://www.dandwiki.com/wiki/Awakened_Flame_(5e_Race)"></author>
 		<update version="0.0.1">
-			<file name="race-awakened_flame.xml" url="">
+			<file name="race-awakened_flame.xml" url="https://raw.githubusercontent.com/Sworn115/Homebrew-Files-for-Aurora/main/race-awakened_flame.xml">
 		</update>
 	</info>
 	
