@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+	<info>
+		<name>Awakened Flame</name>
+		<description> Homebrew Race created and uploaded to the D&D Wiki.</description>
+		<author url="https://www.dandwiki.com/wiki/Awakened_Flame_(5e_Race)"></author>
+		<update version="0.0.1">
+			<file name="race-awakened_flame.xml" url="">
+		</update>
+	</info>
+	
+	<element name="Awakened Flame" type="Race" source="5e Homebrews from D&D Wiki" id="ID_RACE_AWAKENED_FLAME">
+		<description>
+			<p class="flavor">A pot of awakening, a potion of awaken, an awakened heart, whatever it was that awoke the mind of an awakened creature, it 
+			brought life and intelligence to be within the creature, and in the case of the awakened flame, it could be 
+			anything. But most importantly, the heart of an awakened flame is made of pure fire, in fact the entirety of 
+			an awakened flame is fire, they aren't quite elementals but share many of the same aspects and behaviours 
+			as them, except an awakened fire has much more control over their form, as rather than being a creature of 
+			fire magic, they are pure sentient fire.</p>
+			<h4>Physical Description</h4>
+			<p>An awakened flame is an ordinary fire source given sentience and mobility by the Awaken spell or similar 
+			magic. Awakened flame do not have a gender but are able to change their form and shape to match such if they 
+			wish to simulate one or a specific appearance is desired.</p>
+			<p class="indent">Awakened flame have a thin layer of solidified substance, presumed to be made of a form of 
+			thick mist, this mist is what holds them together and allows them to take physical forms, when injured the 
+			mist breaks, allowing their internal flames to escape, when this happens the mist will rush to accommodate, 
+			in an effort to patch the hole as quick as possible. This usually results in loss of size and weight, and 
+			as the awakened flame's health gets lower, so does it's size.</p>
+			<h4>History</h4>
+			<p>The Awakened flame's history is similar to any other awakened's history, they came to being. Many stories 
+			are told about the history of Awakened, but their entire history can usually boil down to one aspect, they 
+			are simply creations of ordinary objects being given the gift of sentience, intelligence and mobility.</p>
+			<p class="indent">They tend to roam in hot or warm environments, as it's the safest place for them, they may 
+			stay living on their own within a volcanic or assist other races by acting as a fire of some sort, aiding 
+			lost adventurers in the cold nights, or working with blacksmiths in whom they've become great friends with, 
+			but some may leave their home to explore or join societies of other awakened, such as other awakened 
+			creatures. Some awakened flame even find their way into the fire plane, where they are the absolute safest, 
+			as the safest place to be as a being of pure fire is within the realm of flames.</p>
+			<p class="indent">An awakened flame may be made of pure fire but don't let their appearance fool you, while 
+			their form is impermanent, they are still capable of taking a hit or two, and are even more capable of 
+			dishing it back out. An awakened flame can learn many different offensive techniques, their most prominent 
+			ones being their ability to easily evade attacks and turn their own bodies into natural weapons. As being 
+			made of entirely fire, bruises and slashes don't stay for long. If they even stay.</p>
+			<h4>Awakened Flame Names</h4>
+			<p>Awakened flame tend to give themselves names, they are beings of pure fire and as such do not know 
+			much about naming themselves, they've often taken on names of their own environment.</p>
+			<p>
+			<span class="feature">Omnisex Names:</span>Igni, Scorch, Burns, Magma, Torch, Heat, Blaze, Inferna, 
+			Char, Ember, Flare, Tinder, Pyro, Calcifer<br />
+			</p>
+			<h4>Awakened Flame Traits</h4>
+			<p>Awakened Sentient Beings of Pure Fire.</p>
+			<p class="indent"><strong><em>Ability Score Increase.</em></strong> Your Constitution score increases
+			by 2.</p>
+			<p class="indent"><strong><em>Age.</em></strong> Awakened flame are pure fire, and as such their life span 
+			is infinite for as long as they hold onto the magic that keeps them awakened.</p>
+			<p class="indent"><strong><em>Alignment.</em></strong> Awakened flame are wild beings, they are either chaotic
+			or neutral and are usually good.</p>
+			<p class="indent"><strong><em>Size.</em></strong> Awakened flame vary extremely in height and build, from barely 
+			5 feet to well over 6 feet tall. Your size is Medium.</p>
+			<p class="indent"><strong><em>Speed.</em></strong> Your base walking speed is 25 feet. Your base flying speed is 
+			30 feet.</p>
+			<p class="indent"><strong><em>Lit Flame.</em></strong> You gain darkvision with a 60-foot range. 
+			Additionally you shed bright light in a 20-foot radius and dim light for an additional 20 feet.</p>
+			<p class="indent"><strong><em>Scorch Skin.</em></strong> When a creature within 5 feet of you deals 
+			damage to you or touches your surface flame with any part of their own body. The creature takes 1 fire
+			damage. You can not wear flammable armor, such as leather or hide.</p>
+			<p class="indent"><strong><em>Snuffed Flame.</em></strong> When subjected to an effect or spell that 
+			would normally snuff or put out open flames, you are immune to any portion of the spell that would 
+			extinguish you, however your speed is reduced by 20-feet until the end of your next turn.</p>
+			<p class="indent"><strong><em>Pure Fire.</em></strong> You have immunity to fire damage. However if you 
+			make any significant contact with water you take cold damage equal to your level, doubled if more than 
+			1/2 your body is submerged. You know the cantrip control flame, Constitution is your spellcasting ability 
+			for this cantrip.</p>
+			<p class="indent"><strong><em>Made of Fire.</em></strong> Your body loses mass when you take damage, while 
+			below 1/2 of your maximum hit points your size category decreases by one, and decreases again when below 
+			1/4 of your maximum hit points. Your size increases respectively once you've regained the missing hit 
+			points. This effect is negated while shape shifted.</p>
+			<p class="indent"><strong><em>Exhaust.</em></strong> When you're reduced to 0 hit points, you remain 
+			semi-conscious and turn into a cloud of smoke, appearing dead to all outward inspection and to spells used 
+			to determine status. Additionally you're immune to the restrained condition.</p>
+			<p class="indent"><strong><em>Languages.</em></strong> You can speak, read, and write Common, Ignan and 
+			Primordial.</p>
+			<p class="indent"><strong><em>Subrace.</em></strong> An awakened flame chooses their form of flexibility, 
+			between large or small.</p>
+		</description>
+		<sheet display="true" />
+		<setters>
+			<set name="names" type="male">Igni, Scorch, Burns, Magma, Torch, Heat, Blaze, Inferna, 
+			Char, Ember, Flare, Tinder, Pyro, Calcifer</set>
+			<set name="names" type="female">Igni, Scorch, Burns, Magma, Torch, Heat, Blaze, Inferna, 
+			Char, Ember, Flare, Tinder, Pyro, Calcifer</set>
+			<set name="names-format">{{name}}</set>
+			<set name="height" modifier="4d10">4'0"</set>
+			<set name="weight" modifier="1d4">5 lb.</set>
+		</setters>
+		<rules>
+			<stat name="constitution" value="1" />
+			<stat name="innate speed" value="25" bonus="base" />
+			<stat name="innate speed:fly" value="30" bonus="base" />
+			<grant type="Size" id="ID_SIZE_MEDIUM" />
+			<grant type="Vision" id="ID_VISION_DARKVISION" />
+			<grant type="Language" id="ID_LANGUAGE_COMMON" />
+			<grant type="Language" name="ID_LANGUAGE_IGNAN" />
+			<grant type="Language" id="ID_LANGUAGE_PRIMORDIAL" />
+			<grant type="Racial Trait" id="ID_RACIAL_TRAIT_SCORCH_SKIN" />
+			<grant type="Racial Trait" id="ID_RACIAL_TRAIT_SNUFFED_FLAME" />
+			<grant type="Racial Trait" id="ID_RACIAL_TRAIT_PURE_FIRE" />
+			<grant type="Racial Trait" id="ID_RACIAL_TRAIT_MADE_OF_FIRE" />
+			<grant type="Racial Trait" id="ID_RACIAL_TRAIT_EXHAUST" />
+			<grant type="Racial Trait" id="ID_RACIAL_TRAIT_AWAKENED_FLAME_SUBRACE" />
+		</rules>
+	</element>
+	<element name="Scorch Skin" type="Racial Trait" source="5e Homebrews from D&D Wiki" id="ID_RACIAL_TRAIT_SCORCH_SKIN">
+		<description>
+			<p>When a creature within 5 feet of you deals damage to you or touches your surface flame with any part 
+			of their own body. The creature takes 1 fire damage. You can not wear flammable armor, such as leather or 
+			hide.</p>
+		</description>
+	</element>
+	<element name="Snuffed Flame" type="Racial Trait" source="5e Homebrews from D&D Wiki" id="ID_RACIAL_TRAIT_SNUFFED_FLAME">
+		<description>
+			<p>When subjected to an effect or spell that would normally snuff or put out open flames, you are immune 
+			to any portion of the spell that would extinguish you, however your speed is reduced by 20-feet until the 
+			end of your next turn.</p>
+		</description>
+	</element>
+	<element name="Pure Fire" type="Racial Trait" source="5e Homebrews from D&D Wiki" id="ID_RACIAL_TRAIT_PURE_FIRE">
+		<description>
+			<p>You have immunity to fire damage. However if you make any significant contact with water you take cold
+			damage equal to your level, doubled if more than 1/2 your body is submerged. You know the cantrip control 
+			flame, Constitution is your spellcasting ability for this cantrip.</p>
+		</description>
+	</element>
+	<element name="Made of Fire" type="Racial Trait" source="5e Homebrews from D&D Wiki" id="ID_RACIAL_TRAIT_MADE_OF_FIRE">
+		<description>
+			<p>Your body loses mass when you take damage, while below 1/2 of your maximum hit points your size 
+			category decreases by one, and decreases again when below 1/4 of your maximum hit points. Your size 
+			increases respectively once you've regained the missing hit points. This effect is negated while shape 
+			shifted.</p>
+		</description>
+	</element>
+	<element name="Exhaust" type="Racial Trait" source="5e Homebrews from D&D Wiki" id="ID_RACIAL_TRAIT_EXHAUST">
+		<description>
+			<p>When you're reduced to 0 hit points, you remain semi-conscious and turn into a cloud of smoke, 
+			appearing dead to all outward inspection and to spells used to determine status. Additionally you're 
+			immune to the restrained condition.</p>
+		</description>
+	</element>
+	<element name="Awakened Flame Subrace" type="Racial Trait" source="5e Homebrews from D&D Wiki" id="ID_RACIAL_TRAIT_AWAKENED_FLAME_SUBRACE">
+		<description>
+			<p>An awakened flame chooses their form of flexibility, between large or small.</p>
+		</description>
+		<sheet display="false" />
+		<rules>
+			<select type="Sub Race" name="Awakened Flame Subrace" supports="Awakened Flame" />
+		</rules>
+	</element>
+	
+	<element name="Small Flame" type="Sub Race" source="5e Homebrews from D&D Wiki" id="ID_SUB_RACE_SMALL_FLAME">
+		<supports>Awakened Flame</supports>
+		<description>
+			<p>Smaller flexibility awakened flame can shrink down and are harder to hit.</p>
+			<p class="indent"><strong><em>Nimble.</em></strong> Your Dexterity score increases by 2.</p>
+			<p class="indent"><strong><em>Evasive Flame.</em></strong> Your AC is 17, regardless of your DEX 
+			modifier or armor.</p>
+			<p class="indent"><strong><em>Reduce.</em></strong> You can decrease your size category by one size 
+			as an action and can grow back to your original size as a bonus action.</p>
+			<p class="indent"><strong><em>Gaseous.</em></strong> You gain proficiency in Stealth and can become
+			invisible while fully engulfed in any fire source, including torches and lanterns.</p>
+			<p class="indent"><strong><em>Nebulous.</em></strong> You can enter another creature's space and stop 
+			there. You can move through a space as narrow as 1 inch wide without squeezing. When doing so you leave
+			behind any items you are carrying, and any equipment which you are proficient with merges into your form
+			until you exit the space.</p>
+		</description>
+		<sheet display="false" />
+		<rules>
+			<stat name="dexterity" value="2" />
+			<grant type="Racial Trait" id="ID_RACIAL_TRAIT_EVASIVE_FLAME" />
+			<grant type="Racial Trait" id="ID_RACIAL_TRAIT_REDUCE" />
+			<grant type="Racial Trait" id="ID_RACIAL_TRAIT_GASEOUS" />
+			<grant type="Racial Trait" id="ID_RACIAL_TRAIT_NEBULOUS" />
+		</rules>
+	</element>
+	<element name="Evasive Flame" type="Racial Trait" source="5e Homebrews from D&D Wiki" id="ID_RACIAL_TRAIT_EVASIVE_FLAME">
+		<description>
+			<p>Your AC is 17, regardless of your DEX modifier or armor.</p>
+		</description>
+		<rules>
+			<stat name="Nimble" value="7" />
+            <stat name="AC" value="NaturalArmor" bonus="Base" />
+            <stat name="AC" value="-Dexterity Modifier" />
+            <stat name="AC" value="-armor:equipped" />
+		</rules>
+	</element>
+	<element name="Reduce" type="Racial Trait" source="5e Homebrews from D&D Wiki" id="ID_RACIAL_TRAIT_REDUCE">
+		<description>
+			<p>You can decrease your size category by one size as an action and can grow back to your original 
+			size as a bonus action.</p>
+		</description>
+	</element>
+	<element name="Gaseous" type="Racial Trait" source="5e Homebrews from D&D Wiki" id="ID_RACIAL_TRAIT_GASEOUS">
+		<description>
+			<p>You gain proficiency in Stealth and can become invisible while fully engulfed in any fire source,
+			including torches and lanterns.</p>
+		</description>
+		<rules>
+			<grant type="Proficiency" id="ID_PROFICIENCY_SKILL_STEALTH" />
+		</rules>
+	</element>
+	<element name="Nebulous" type="Racial Trait" source="5e Homebrews from D&D Wiki" id="ID_RACIAL_TRAIT_NEBULOUS">
+		<description>
+			<p>You can enter another creature's space and stop there. You can move through a space as narrow as 1
+			inch wide without squeezing. When doing so you leave behind any items you are carrying, and any equipment
+			which you are proficient with merges into your form until you exit the space.</p>
+		</description>
+	</element>
+	
+	<element name="Large Flame" type="Sub Race" source="5e Homebrews from D&D Wiki" id="ID_SUB_RACE_LARGE_FLAME">
+		<supports>Awakened Flame</supports>
+		<description>
+			<p>Larger flexibility awakened flame can grow larger and are more durable.</p>
+			<p class="indent"><strong><em>Powerful.</em></strong> Your Strength score increases by 2.</p>
+			<p class="indent"><strong><em>Profuse Flame.</em></strong> Your hit point maximum increases by 1, 
+			and it increases by 1 every time you gain a level.</p>
+			<p class="indent"><strong><em>Enlarge.</em></strong> You can increase your size category by one size
+			as an action and can shrink back to your original size as a bonus action.</p>
+			<p class="indent"><strong><em>Warmth.</em></strong> You can use your large blazing body to warm other
+			creatures, cook food, or boil water. And when you or another creatures attempts to, you do so with
+			advantage and the effects are twice as beneficial.</p>
+			<p class="indent"><strong><em>Fuel Collection.</em></strong> When any part of your body is in contact
+			with a non-magical source of fire, as an action you can recover hit points equal to your proficiency bonus.
+			If the source of fire is smaller like a torch, campfire or a lantern, you can only benefit from it once,
+			after which the flame is consumed.</p>
+		</description>
+		<sheet display="false" />
+		<rules>
+			<stat name="strength" value="2" />
+			<grant type="Racial Trait" id="ID_RACIAL_TRAIT_PROFUSE_FLAME" />
+			<grant type="Racial Trait" id="ID_RACIAL_TRAIT_ENLARGE" />
+			<grant type="Racial Trait" id="ID_RACIAL_TRAIT_WARMTH" />
+			<grant type="Racial Trait" id="ID_RACIAL_TRAIT_FUEL_COLLECTION" />
+		</rules>
+	</element>
+	<element name="Profuse Flame" type="Racial Trait" source="5e Homebrews from D&D Wiki" id="ID_RACIAL_TRAIT_PROFUSE_FLAME">
+		<description>
+			<p>Your hit point maximum increases by 1, and it increases by 1 every time you gain a level.</p>
+		</description>
+		<rules>
+			<stat name="hp" value="level" />
+		</rules>
+	</element>
+	<element name="Enlarge" type="Racial Trait" source="5e Homebrews from D&D Wiki" id="ID_RACIAL_TRAIT_ENLARGE">
+		<description>
+			<p>You can increase your size category by one size as an action and can shrink back to your original
+			size as a bonus action.</p>
+		</description>
+	</element>
+	<element name="Warmth" type="Racial Trait" source="5e Homebrews from D&D Wiki" id="ID_RACIAL_TRAIT_WARMTH">
+		<description>
+			You can use your large blazing body to warm other creatures, cook food, or boil water. And when you
+			or another creatures attempts to, you do so with advantage and the effects are twice as beneficial.</p>
+		</description>
+	</element>
+	<element name="Fuel Collection" type="Racial Trait" source="5e Homebrews from D&D Wiki" id="ID_RACIAL_TRAIT_FUEL_COLLECTION">
+		<description>
+			<p>When any part of your body is in contact with a non-magical source of fire, as an action you can
+			recover hit points equal to your proficiency bonus. If the source of fire is smaller like a torch,
+			campfire or a lantern, you can only benefit from it once, after which the flame is consumed.</p>
+		</description>
+	</element>
+</elements>
